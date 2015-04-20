@@ -6,5 +6,6 @@ Who Manages
 Rebornweb.co.nz "Swiftly Building Websites"
 
 
-This Repo Offers Free Code For the World to Enjoy There is a Stop Watch 
+This Repo Offers Free SilverStripe Themes/Mysite Code For the World to Enjoy There is a Stop Watch 
 and Metronome working for the world to tinker with.
+
