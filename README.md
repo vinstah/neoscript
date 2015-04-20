@@ -5,6 +5,7 @@ This is A Repo of Andrei Nicolas
 Who Manages
 Rebornweb.co.nz "Swiftly Building Websites"
 
+Working Demo of Newdawn theme is at http://newdawn.rebornweb.co.nz
 
 This Repo Offers Free SilverStripe Themes/Mysite Code For the World to Enjoy There is a Stop Watch 
 and Metronome working for the world to tinker with.
