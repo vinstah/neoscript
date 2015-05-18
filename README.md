@@ -3,7 +3,7 @@
 This is A Repo of Andrei Nicolas
 
 Who Manages
-Rebornweb.co.nz "Swiftly Building Websites"
+http://Rebornweb.co.nz "Swiftly Building Websites"
 
 Working Demo of Newdawn theme is at http://newdawn.rebornweb.co.nz
 
