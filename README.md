@@ -6,6 +6,8 @@ Who Manages
 http://Rebornweb.co.nz "Swiftly Building Websites"
 
 Working Demo of the simple Bella put in action for a Ecommerce website at http://bella.rebornweb.co.nz
+#If what's available is just the 'simple version'
+
 
 Working Demo of Newdawn theme is at http://newdawn.rebornweb.co.nz
 
