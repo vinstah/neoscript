@@ -5,6 +5,8 @@ This is A Repo of Andrei Nicolas
 Who Manages
 http://Rebornweb.co.nz "Swiftly Building Websites"
 
+Working Demo of the simple Bella put in action for a Ecommerce website at http://bella.rebornweb.co.nz
+
 Working Demo of Newdawn theme is at http://newdawn.rebornweb.co.nz
 
 This Repo Offers Free SilverStripe Themes/Mysite Code For the World to Enjoy There is a Stop Watch 
