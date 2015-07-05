@@ -3,10 +3,19 @@
 This is A Repo of Andrei Nicolas
 
 Who Manages
-http://Rebornweb.co.nz "Swiftly Building Websites"
+#http://Rebornweb.co.nz "Swiftly Building Websites"
+#The Bella Theme is a General SASS/HTML5 Theme to start with 
 
-Working Demo of the simple Bella put in action for a Ecommerce website at http://bella.rebornweb.co.nz
-#If what's available is just the 'simple version'
+Working Demo of the simple Bella put in action for a Photography website at
+http://lavolpe.rebornweb.co.nz but i changed the header and the navigation on this site.
+
+#What's here is just the 'simple version of the Bella Theme'
+
+Which is Responsive and Has a "Hamburger" and Dropdown menu Nav Using SASS/css,
+I recommend you switch to using a SASS compiler which generates CSS if you haven't
+already :)
+
+'I said a 10 Second car, not a 10 Minute Car'
 
 
 Working Demo of Newdawn theme is at http://newdawn.rebornweb.co.nz
