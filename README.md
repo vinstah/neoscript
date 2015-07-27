@@ -26,4 +26,11 @@ and Metronome working for the world to tinker with.
 Newdawn Theme has a E-commerce Cart With Products Dataobject/Admin Built-in with Product Pages and a Product Holder
 You just have to do A /dev/build and ?flush=all after adding in the theme and mysite code.
 
+#There is Also a Waving Animation Waving.js
+
+Wishing you guys would fork it play with it as you wish,
+it is fun, also a nightmare :) it waves a whole line in a anchor wrapped with
+any element with the class of class='wavingwrap' 
+
+
 Enjoy
