@@ -34,6 +34,12 @@ any element with the class of class='wavingwrap'
 
 Link to demo is at http://andrei.reborweb.co.nz/hi
 
+if you want the Waving.js go to wavingcssanimations folder :)
+
+Download the Whole Zip or Git clone
+
+
+
 The CSS3 compiliation on there is from Callmenick.com so Thanks to that Guy :)  
 
 Enjoy
