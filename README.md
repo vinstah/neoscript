@@ -32,5 +32,8 @@ Wishing you guys would fork it play with it as you wish,
 it is fun, also a nightmare :) it waves a whole line in a anchor wrapped with
 any element with the class of class='wavingwrap' 
 
+Link to demo is at http://andrei.reborweb.co.nz/hi
+
+The CSS3 compiliation on there is from Callmenick.com so Thanks to that Guy :)  
 
 Enjoy
