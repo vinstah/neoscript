@@ -6,7 +6,7 @@ Who Manages
 #http://Rebornweb.co.nz "Swiftly Building Websites"
 #The Bella Theme is a General SASS/HTML5 Theme to start with 
 
-Working Demo of the simple Bella put in action for a Photography website at
+Working Demo of the simple Bella put in action for a E-commerce website at
 http://bella.rebornweb.co.nz but i changed the header and the navigation on this site.
 
 #What's here is just the 'simple version of the Bella Theme'
